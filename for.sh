@@ -6,7 +6,7 @@
 fruits=("apple" "banana" "cherry" "mango")
 for fruit in "${fruits[@]}"; do
 	echo "I like to eat $fruit"
-done
+done`
 
 
 fruits=("apple" "banana" "cherry" "mango")
